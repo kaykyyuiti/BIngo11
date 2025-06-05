@@ -58,6 +58,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmHistorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHistorico.Designer.cs">
+      <DependentUpon>FrmHistorico.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="FrmSorteador.cs">
@@ -72,6 +78,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmHistorico.resx">
+      <DependentUpon>FrmHistorico.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -80,6 +89,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="FrmSorteador.resx">
       <DependentUpon>FrmSorteador.cs</DependentUpon>
@@ -96,6 +106,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coringa-3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livre_1615304707.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ru_gPZ6H_400x400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03a44dfa7d28c6c5b49c7e0da5177ea4323800e7r1-538-529v2_hq.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -117,17 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="livre_1615304707" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\livre_1615304707.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="coringa-3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\coringa-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ru_gPZ6H_400x400" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ru_gPZ6H_400x400.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="03a44dfa7d28c6c5b49c7e0da5177ea4323800e7r1-538-529v2_hq" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\03a44dfa7d28c6c5b49c7e0da5177ea4323800e7r1-538-529v2_hq.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

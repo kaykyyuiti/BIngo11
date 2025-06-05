@@ -28,19 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblNumero = new System.Windows.Forms.Label();
             this.btProximo = new System.Windows.Forms.Button();
             this.btCancelar = new System.Windows.Forms.Button();
             this.btHistorico = new System.Windows.Forms.Button();
+            this.lblNumero = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // lblNumero
-            // 
-            this.lblNumero.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNumero.Location = new System.Drawing.Point(1, 141);
-            this.lblNumero.Name = "lblNumero";
-            this.lblNumero.Size = new System.Drawing.Size(619, 119);
-            this.lblNumero.TabIndex = 0;
             // 
             // btProximo
             // 
@@ -62,6 +54,7 @@
             this.btCancelar.TabIndex = 2;
             this.btCancelar.Text = "&Cancelar";
             this.btCancelar.UseVisualStyleBackColor = true;
+            this.btCancelar.Click += new System.EventHandler(this.btCancelar_Click);
             // 
             // btHistorico
             // 
@@ -72,11 +65,23 @@
             this.btHistorico.TabIndex = 3;
             this.btHistorico.Text = "Histórico";
             this.btHistorico.UseVisualStyleBackColor = true;
+            this.btHistorico.Click += new System.EventHandler(this.btHistorico_Click);
+            // 
+            // lblNumero
+            // 
+            this.lblNumero.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNumero.Image = global::BIngo11.Properties.Resources.Ru_gPZ6H_400x400;
+            this.lblNumero.Location = new System.Drawing.Point(1, 141);
+            this.lblNumero.Name = "lblNumero";
+            this.lblNumero.Size = new System.Drawing.Size(619, 119);
+            this.lblNumero.TabIndex = 0;
             // 
             // FrmSorteador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Maroon;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(620, 470);
             this.Controls.Add(this.btHistorico);
             this.Controls.Add(this.btCancelar);
@@ -84,6 +89,7 @@
             this.Controls.Add(this.lblNumero);
             this.Name = "FrmSorteador";
             this.Text = "Sorteador";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmSorteador_FormClosing);
             this.ResumeLayout(false);
 
         }

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BIngo11;
 
 namespace Bingo
 {
@@ -54,5 +55,48 @@ namespace Bingo
                 lblNumero.Text = num.ToString();
             }
         }
+
+        public void AnunciarVitoria(FrmCartela cartela)
+        {
+            foreach (FrmCartela c in cartelas)
+            {
+                if (cartela != cartela)
+                {
+                    cartela.Close();
+                }
+                cartela.Focus();
+                btProximo.Enabled = false;
+            }
+        }
+
+        private void FrmSorteador_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult r = MessageBox.Show("Deseja mesmo encerrar o sorteio?",
+                             "Bingo", MessageBoxButtons.YesNo);
+            if (r == DialogResult.Yes)
+            {
+                foreach (FrmCartela cartela in cartelas)
+                {
+                    cartela.Close();
+                }
+                anterior.Show();
+            }
+            else
+            {
+                e.Cancel = true; // Cancela o fechamento do formulário
+            }
+        }
+
+        private void btCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btHistorico_Click(object sender, EventArgs e)
+        {
+            FrmHistorico f = new FrmHistorico(sorteados);
+            f.ShowDialog();
+        
+    }
     }
 }

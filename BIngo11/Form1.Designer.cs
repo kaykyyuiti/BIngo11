@@ -76,7 +76,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(510, 281);
+            this.BackgroundImage = global::BIngo11.Properties.Resources._03a44dfa7d28c6c5b49c7e0da5177ea4323800e7r1_538_529v2_hq;
+            this.ClientSize = new System.Drawing.Size(518, 390);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.numQtd);
