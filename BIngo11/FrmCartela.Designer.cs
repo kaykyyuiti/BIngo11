@@ -80,7 +80,7 @@
             this.lbl1_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl1_1.Location = new System.Drawing.Point(41, 227);
             this.lbl1_1.Name = "lbl1_1";
-            this.lbl1_1.Size = new System.Drawing.Size(81, 31);
+            this.lbl1_1.Size = new System.Drawing.Size(97, 38);
             this.lbl1_1.TabIndex = 31;
             this.lbl1_1.Text = "label1";
             // 
@@ -92,7 +92,7 @@
             this.lbl5_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl5_1.Location = new System.Drawing.Point(41, 552);
             this.lbl5_1.Name = "lbl5_1";
-            this.lbl5_1.Size = new System.Drawing.Size(81, 31);
+            this.lbl5_1.Size = new System.Drawing.Size(97, 38);
             this.lbl5_1.TabIndex = 32;
             this.lbl5_1.Text = "label5";
             // 
@@ -104,7 +104,7 @@
             this.lbl4_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl4_1.Location = new System.Drawing.Point(41, 460);
             this.lbl4_1.Name = "lbl4_1";
-            this.lbl4_1.Size = new System.Drawing.Size(81, 31);
+            this.lbl4_1.Size = new System.Drawing.Size(97, 38);
             this.lbl4_1.TabIndex = 33;
             this.lbl4_1.Text = "label4";
             // 
@@ -116,7 +116,7 @@
             this.lbl3_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl3_1.Location = new System.Drawing.Point(41, 383);
             this.lbl3_1.Name = "lbl3_1";
-            this.lbl3_1.Size = new System.Drawing.Size(81, 31);
+            this.lbl3_1.Size = new System.Drawing.Size(97, 38);
             this.lbl3_1.TabIndex = 34;
             this.lbl3_1.Text = "label3";
             // 
@@ -128,7 +128,7 @@
             this.lbl2_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl2_1.Location = new System.Drawing.Point(41, 300);
             this.lbl2_1.Name = "lbl2_1";
-            this.lbl2_1.Size = new System.Drawing.Size(81, 31);
+            this.lbl2_1.Size = new System.Drawing.Size(97, 38);
             this.lbl2_1.TabIndex = 35;
             this.lbl2_1.Text = "label2";
             // 
@@ -140,7 +140,7 @@
             this.lbl2_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl2_2.Location = new System.Drawing.Point(178, 300);
             this.lbl2_2.Name = "lbl2_2";
-            this.lbl2_2.Size = new System.Drawing.Size(81, 31);
+            this.lbl2_2.Size = new System.Drawing.Size(97, 38);
             this.lbl2_2.TabIndex = 40;
             this.lbl2_2.Text = "label7";
             // 
@@ -152,7 +152,7 @@
             this.lbl3_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl3_2.Location = new System.Drawing.Point(178, 383);
             this.lbl3_2.Name = "lbl3_2";
-            this.lbl3_2.Size = new System.Drawing.Size(81, 31);
+            this.lbl3_2.Size = new System.Drawing.Size(97, 38);
             this.lbl3_2.TabIndex = 39;
             this.lbl3_2.Text = "label8";
             // 
@@ -164,7 +164,7 @@
             this.lbl4_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl4_2.Location = new System.Drawing.Point(178, 460);
             this.lbl4_2.Name = "lbl4_2";
-            this.lbl4_2.Size = new System.Drawing.Size(81, 31);
+            this.lbl4_2.Size = new System.Drawing.Size(97, 38);
             this.lbl4_2.TabIndex = 38;
             this.lbl4_2.Text = "label9";
             // 
@@ -176,7 +176,7 @@
             this.lbl5_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl5_2.Location = new System.Drawing.Point(178, 552);
             this.lbl5_2.Name = "lbl5_2";
-            this.lbl5_2.Size = new System.Drawing.Size(94, 31);
+            this.lbl5_2.Size = new System.Drawing.Size(114, 38);
             this.lbl5_2.TabIndex = 37;
             this.lbl5_2.Text = "label10";
             // 
@@ -188,7 +188,7 @@
             this.lbl1_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl1_2.Location = new System.Drawing.Point(178, 227);
             this.lbl1_2.Name = "lbl1_2";
-            this.lbl1_2.Size = new System.Drawing.Size(81, 31);
+            this.lbl1_2.Size = new System.Drawing.Size(97, 38);
             this.lbl1_2.TabIndex = 36;
             this.lbl1_2.Text = "label6";
             // 
@@ -200,7 +200,7 @@
             this.lbl2_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl2_3.Location = new System.Drawing.Point(303, 300);
             this.lbl2_3.Name = "lbl2_3";
-            this.lbl2_3.Size = new System.Drawing.Size(94, 31);
+            this.lbl2_3.Size = new System.Drawing.Size(114, 38);
             this.lbl2_3.TabIndex = 45;
             this.lbl2_3.Text = "label12";
             // 
@@ -212,7 +212,7 @@
             this.lbl4_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl4_3.Location = new System.Drawing.Point(303, 460);
             this.lbl4_3.Name = "lbl4_3";
-            this.lbl4_3.Size = new System.Drawing.Size(94, 31);
+            this.lbl4_3.Size = new System.Drawing.Size(114, 38);
             this.lbl4_3.TabIndex = 43;
             this.lbl4_3.Text = "label14";
             // 
@@ -224,7 +224,7 @@
             this.lbl5_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl5_3.Location = new System.Drawing.Point(303, 552);
             this.lbl5_3.Name = "lbl5_3";
-            this.lbl5_3.Size = new System.Drawing.Size(94, 31);
+            this.lbl5_3.Size = new System.Drawing.Size(114, 38);
             this.lbl5_3.TabIndex = 42;
             this.lbl5_3.Text = "label15";
             // 
@@ -236,7 +236,7 @@
             this.lbl1_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl1_3.Location = new System.Drawing.Point(303, 227);
             this.lbl1_3.Name = "lbl1_3";
-            this.lbl1_3.Size = new System.Drawing.Size(94, 31);
+            this.lbl1_3.Size = new System.Drawing.Size(114, 38);
             this.lbl1_3.TabIndex = 41;
             this.lbl1_3.Text = "label11";
             // 
@@ -248,7 +248,7 @@
             this.lbl2_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl2_4.Location = new System.Drawing.Point(424, 300);
             this.lbl2_4.Name = "lbl2_4";
-            this.lbl2_4.Size = new System.Drawing.Size(94, 31);
+            this.lbl2_4.Size = new System.Drawing.Size(114, 38);
             this.lbl2_4.TabIndex = 50;
             this.lbl2_4.Text = "label17";
             // 
@@ -260,7 +260,7 @@
             this.lbl3_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl3_4.Location = new System.Drawing.Point(424, 383);
             this.lbl3_4.Name = "lbl3_4";
-            this.lbl3_4.Size = new System.Drawing.Size(94, 31);
+            this.lbl3_4.Size = new System.Drawing.Size(114, 38);
             this.lbl3_4.TabIndex = 49;
             this.lbl3_4.Text = "label18";
             // 
@@ -272,7 +272,7 @@
             this.lbl4_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl4_4.Location = new System.Drawing.Point(424, 460);
             this.lbl4_4.Name = "lbl4_4";
-            this.lbl4_4.Size = new System.Drawing.Size(94, 31);
+            this.lbl4_4.Size = new System.Drawing.Size(114, 38);
             this.lbl4_4.TabIndex = 48;
             this.lbl4_4.Text = "label19";
             // 
@@ -284,7 +284,7 @@
             this.lbl5_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl5_4.Location = new System.Drawing.Point(424, 552);
             this.lbl5_4.Name = "lbl5_4";
-            this.lbl5_4.Size = new System.Drawing.Size(94, 31);
+            this.lbl5_4.Size = new System.Drawing.Size(114, 38);
             this.lbl5_4.TabIndex = 47;
             this.lbl5_4.Text = "label20";
             // 
@@ -296,7 +296,7 @@
             this.lbl1_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl1_4.Location = new System.Drawing.Point(424, 227);
             this.lbl1_4.Name = "lbl1_4";
-            this.lbl1_4.Size = new System.Drawing.Size(94, 31);
+            this.lbl1_4.Size = new System.Drawing.Size(114, 38);
             this.lbl1_4.TabIndex = 46;
             this.lbl1_4.Text = "label16";
             // 
@@ -308,7 +308,7 @@
             this.lbl2_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl2_5.Location = new System.Drawing.Point(542, 300);
             this.lbl2_5.Name = "lbl2_5";
-            this.lbl2_5.Size = new System.Drawing.Size(94, 31);
+            this.lbl2_5.Size = new System.Drawing.Size(114, 38);
             this.lbl2_5.TabIndex = 55;
             this.lbl2_5.Text = "label22";
             // 
@@ -320,7 +320,7 @@
             this.lbl3_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl3_5.Location = new System.Drawing.Point(542, 383);
             this.lbl3_5.Name = "lbl3_5";
-            this.lbl3_5.Size = new System.Drawing.Size(94, 31);
+            this.lbl3_5.Size = new System.Drawing.Size(114, 38);
             this.lbl3_5.TabIndex = 54;
             this.lbl3_5.Text = "label23";
             // 
@@ -332,7 +332,7 @@
             this.lbl4_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl4_5.Location = new System.Drawing.Point(542, 460);
             this.lbl4_5.Name = "lbl4_5";
-            this.lbl4_5.Size = new System.Drawing.Size(94, 31);
+            this.lbl4_5.Size = new System.Drawing.Size(114, 38);
             this.lbl4_5.TabIndex = 53;
             this.lbl4_5.Text = "label24";
             // 
@@ -344,7 +344,7 @@
             this.lbl5_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl5_5.Location = new System.Drawing.Point(542, 552);
             this.lbl5_5.Name = "lbl5_5";
-            this.lbl5_5.Size = new System.Drawing.Size(94, 31);
+            this.lbl5_5.Size = new System.Drawing.Size(114, 38);
             this.lbl5_5.TabIndex = 52;
             this.lbl5_5.Text = "label25";
             // 
@@ -356,7 +356,7 @@
             this.lbl1_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl1_5.Location = new System.Drawing.Point(542, 227);
             this.lbl1_5.Name = "lbl1_5";
-            this.lbl1_5.Size = new System.Drawing.Size(94, 31);
+            this.lbl1_5.Size = new System.Drawing.Size(114, 38);
             this.lbl1_5.TabIndex = 51;
             this.lbl1_5.Text = "label21";
             // 
@@ -413,7 +413,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(321, 383);
+            this.pictureBox1.Location = new System.Drawing.Point(303, 383);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(44, 31);
             this.pictureBox1.TabIndex = 61;
@@ -421,7 +421,7 @@
             // 
             // FrmCartela
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::BIngo11.Properties.Resources.coringa_3;
             this.ClientSize = new System.Drawing.Size(669, 692);
